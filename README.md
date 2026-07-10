@@ -19,7 +19,7 @@
 ### 1. Custom CNC Milling Machine
 *Проектирование и сборка ЧПУ станка для малых форм.*
 
-![CNC Machine](https://raw.githubusercontent.com/nairo027/nairo027/main/Снимок%20экрана%202026-06-09%20000610.png)
+![CNC Machine](https://raw.githubusercontent.com/nairo027/nairo027/main/foto_cnc.png)
 
 [![Смотреть демонстрацию работы](https://img.youtube.com/vi/fy_PgWA182E/0.jpg)](https://www.youtube.com/watch?v=fy_PgWA182E)
 
