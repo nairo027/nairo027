@@ -13,6 +13,6 @@
 
 ## 📊 Моя активность
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=nairo027&show_icons=true&theme=radical)
-
+![CNC Machine](Снимок экрана 2026-06-09 000610.png)
 ---
 *Связаться со мной можно через LinkedIn или по email.*
