@@ -1,23 +1,24 @@
-# Привет! Я Нурболот Кенжегулов 👋
+# Кенжегулов Нурболот Калысбекович
 
-Студент-телематик, инженер и разработчик. Увлекаюсь автоматизацией, проектированием механики и созданием умных систем.
+Студент, инженер и разработчик.
+Стремлюсь применить знания в области телематики и смежных дисциплин для разработки инновационных технических решений и обеспечения стабильной работы информационно-технических систем.
 
 ---
 
 ## 🛠 Технологический стек
 | Категория | Технологии |
 | :--- | :--- |
-| **Backend/Software** | Python, FastAPI, SQLAlchemy, Scikit-learn, Pandas |
-| **Embedded/Hardware** | Arduino (Mega/Nano), ESP32, CNC-системы |
-| **CAD/Design** | SolidWorks, Creality Print |
-| **Network/Telematics** | GSM, UMTS, LTE (в процессе обучения) |
+| **Software** | Python, C++, , JS |
+| **Hardware** | Arduino, ESP32, Rasberry Pi, CNC-системы, PLC |
+| **Environment** | ArduinoIDE, TIA Portal, Codesys, KiCad, Matlab, VC Code |
+| **Design** | SolidWorks, Creality Print, Cura, LightBirn, CorelDraw |
 
 ---
 
-## 🚀 Избранные проекты
+##  Учебные проекты
 
-### 1. Custom CNC Milling Machine
-*Проектирование и сборка ЧПУ станка для малых форм.*
+### 1. Интерактивная тактильная карта Кыргызстана
+*Создание обучающего пособия для людей с нарушениями зрения.*
 
 ![CNC Machine](foto_cnc)
 
