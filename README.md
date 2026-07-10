@@ -24,7 +24,7 @@
 
 ![CNC Machine](foto_karta_kg)
 
-[![Смотреть демонстрацию работы](https://img.youtube.com/vi/fy_PgWA182E/0.jpg)](https://www.youtube.com/watch?v=fy_PgWA182E)
+[![Смотреть демонстрацию работы](https://img.youtube.com/shorts/fU-oHLlH7Z8/0.jpg)](https://youtube.com/shorts/fU-oHLlH7Z8?feature=share)
 
 ---
 
