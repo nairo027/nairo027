@@ -39,7 +39,16 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
 ### 3. Стенд по визуализации физики электричества
 *Демонстрационный стенд для визуализации физических законов электричества с помощью световых эффектов.*
 
-<img src="https://raw.githubusercontent.com/nairo027/nairo027/main/foto_perchatka.jpeg" width="400">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/nairo027/nairo027/main/stend_1.jpeg" width="300">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/nairo027/nairo027/main/stend_2.jpeg" width="300">
+    </td>
+  </tr>
+</table>
 
 *Демонстрацию работы*
 
