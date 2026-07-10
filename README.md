@@ -8,7 +8,7 @@
 ## 
 | Категория | Технологии |
 | :--- | :--- |
-| **Software** | Python, C++, , JS |
+| **Software** | Python, C++, JS |
 | **Hardware** | Arduino, ESP32, Raspberry Pi, CNC-системы, PLC |
 | **Environment** | ArduinoIDE, TIA Portal, Codesys, KiCad, Matlab, VC Code |
 | **Design** | SolidWorks, Creality Print, Cura, LightBurn, CorelDraw |
