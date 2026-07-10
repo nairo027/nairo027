@@ -34,11 +34,17 @@
 *Достижение: 2-е место на Make-a-thon (Fablab Bishkek) в качестве участника команды CODA.*
 https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vystavka_innovacionnyh_prototipov.html
 
-![Фото](foto_perchatka.jpeg)
+<img src="https://raw.githubusercontent.com/nairo027/nairo027/main/foto_perchatka.jpeg" width="400">
+
+### 3. Стенд по визуализации физики электричества
+*Демонстрационный стенд для визуализации физических законов электричества с помощью световых эффектов.*
+
+<img src="https://raw.githubusercontent.com/nairo027/nairo027/main/foto_perchatka.jpeg" width="400">
 
 *Демонстрацию работы*
 
-[![Смотреть демонстрацию работы](https://i.ytimg.com/vi/fU-oHLlH7Z8/hqdefault.jpg)](https://youtube.com/shorts/fU-oHLlH7Z8)
+[![Смотреть демонстрацию работы](https://i.ytimg.com/vi/HS9_XYCdlo4/hqdefault.jpg)](https://youtu.be/HS9_XYCdlo4)
+
 ---
 ### 📩 Связаться со мной
 <p align="center">
