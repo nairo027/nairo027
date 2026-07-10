@@ -12,7 +12,7 @@
 *Здесь мы позже вставим ссылки на ваши основные проекты.*
 
 ## 📊 Моя активность
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=nairo027&show_icons=true&theme=radical)
 
 ---
 *Связаться со мной можно через LinkedIn или по email.*
