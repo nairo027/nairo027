@@ -31,7 +31,10 @@
 ### 2. Перчатка-переводчик для языка жестов
 *Прототип устройства для автоматического перевода жестов в текстовый и звуковой формат.*
 
-![Карта](foto_perchatka.jpeg)
+*Достижение: 2-е место на Make-a-thon (Fablab Bishkek) в качестве участника команды CODA.*
+https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vystavka_innovacionnyh_prototipov.html
+
+![Фото](foto_perchatka.jpeg)
 
 *Демонстрацию работы*
 
