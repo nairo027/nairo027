@@ -24,14 +24,20 @@
 
 ![Карта](foto_karta_kg)
 
+*Демонстрацию работы*
 
 [![Смотреть демонстрацию работы](https://i.ytimg.com/vi/fU-oHLlH7Z8/hqdefault.jpg)](https://youtube.com/shorts/fU-oHLlH7Z8)
----
 
-## 📊 Активность
+---
+### 📩 Связаться со мной
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nairo027&show_icons=true&theme=radical" alt="Статистика GitHub" />
+  <a href="mailto:nairokrah027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/nairo027">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/+996705357235">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
-
----
-*Связаться со мной можно через по email.*
