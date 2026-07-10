@@ -22,7 +22,7 @@
 ### 1. Интерактивная тактильная карта Кыргызстана
 *Создание обучающего пособия для людей с нарушениями зрения.*
 
-![CNC Machine](foto_karta_kg.png)
+![CNC Machine](foto_karta_kg)
 
 [![Смотреть демонстрацию работы](https://img.youtube.com/vi/fy_PgWA182E/0.jpg)](https://www.youtube.com/watch?v=fy_PgWA182E)
 
