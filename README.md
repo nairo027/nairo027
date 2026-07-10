@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет! Я Нурболот Кенжегулов 👋
 
-<!--
-**nairo027/nairo027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент-телематик, инженер и разработчик. Увлекаюсь автоматизацией, проектированием механики и созданием умных систем.
 
-Here are some ideas to get you started:
+## 🛠 Технологический стек
+- **Backend/Software:** Python (FastAPI, SQLAlchemy), Scikit-learn, Pandas.
+- **Embedded/Hardware:** Arduino (Mega, Nano), ESP32, CNC-системы.
+- **CAD/Design:** SolidWorks, Creality Print.
+- **Network/Telematics:** Понимание принципов GSM/UMTS/LTE (в процессе обучения).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Избранные проекты
+*Здесь мы позже вставим ссылки на ваши основные проекты.*
+
+## 📊 Моя активность
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical)
+
+---
+*Связаться со мной можно через LinkedIn или по email.*
