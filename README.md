@@ -54,6 +54,20 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
 
 [![Смотреть демонстрацию работы](https://i.ytimg.com/vi/HS9_XYCdlo4/hqdefault.jpg)](https://youtu.be/HS9_XYCdlo4)
 
+### 4. DIY ЧПУ
+*3 осевой станок.*
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/nairo027/nairo027/main/model.png" width="300">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/nairo027/nairo027/main/real.jpeg" width="300">
+    </td>
+  </tr>
+</table>
+
 ---
 ### 📩 Связаться со мной
 <p align="center">
