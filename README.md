@@ -84,7 +84,6 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
 </table>
 
 ## 📂 Документация
-
 <details>
   <summary><b>📄 Нажмите, чтобы развернуть и смотреть все страницы онлайн </b></summary>
   
@@ -112,7 +111,11 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
     <a href="docs/Kurs2025-19.png" target="_blank"><img src="docs/Kurs2025-19.png" width="700"></a><br>
     <a href="docs/Kurs2025-20.png" target="_blank"><img src="docs/Kurs2025-20.png" width="700"></a>
   </p>
-
+  <p align="center">
+    <details>
+      <summary><b>⬆️ Свернуть записку обратно</b></summary>
+    </details>
+  </p>
 </details>
 
 ---
