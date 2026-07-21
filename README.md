@@ -84,6 +84,45 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
 </table>
 
 ## 📂 Документация
+<!-- Метка для возврата (вынесена за пределы спойлера) -->
+<div id="top"></div>
+
+<details>
+  <summary><b>📄 Нажмите, чтобы развернуть и смотреть все страницы онлайн (20 шт.)</b></summary>
+  
+  <p align="center"><em>Прокручивайте вниз для просмотра всей записки. Для увеличения конкретной страницы нажмите на неё.</em></p>
+
+  <p align="center">
+    <a href="docs/Kurs2025-01.png" target="_blank"><img src="docs/Kurs2025-01.png" width="700"></a><br>
+    <a href="docs/Kurs2025-02.png" target="_blank"><img src="docs/Kurs2025-02.png" width="700"></a><br>
+    <a href="docs/Kurs2025-03.png" target="_blank"><img src="docs/Kurs2025-03.png" width="700"></a><br>
+    <a href="docs/Kurs2025-04.png" target="_blank"><img src="docs/Kurs2025-04.png" width="700"></a><br>
+    <a href="docs/Kurs2025-05.png" target="_blank"><img src="docs/Kurs2025-05.png" width="700"></a><br>
+    <a href="docs/Kurs2025-06.png" target="_blank"><img src="docs/Kurs2025-06.png" width="700"></a><br>
+    <a href="docs/Kurs2025-07.png" target="_blank"><img src="docs/Kurs2025-07.png" width="700"></a><br>
+    <a href="docs/Kurs2025-08.png" target="_blank"><img src="docs/Kurs2025-08.png" width="700"></a><br>
+    <a href="docs/Kurs2025-09.png" target="_blank"><img src="docs/Kurs2025-09.png" width="700"></a><br>
+    <a href="docs/Kurs2025-10.png" target="_blank"><img src="docs/Kurs2025-10.png" width="700"></a><br>
+    <a href="docs/Kurs2025-11.png" target="_blank"><img src="docs/Kurs2025-11.png" width="700"></a><br>
+    <a href="docs/Kurs2025-12.png" target="_blank"><img src="docs/Kurs2025-12.png" width="700"></a><br>
+    <a href="docs/Kurs2025-13.png" target="_blank"><img src="docs/Kurs2025-13.png" width="700"></a><br>
+    <a href="docs/Kurs2025-14.png" target="_blank"><img src="docs/Kurs2025-14.png" width="700"></a><br>
+    <a href="docs/Kurs2025-15.png" target="_blank"><img src="docs/Kurs2025-15.png" width="700"></a><br>
+    <a href="docs/Kurs2025-16.png" target="_blank"><img src="docs/Kurs2025-16.png" width="700"></a><br>
+    <a href="docs/Kurs2025-17.png" target="_blank"><img src="docs/Kurs2025-17.png" width="700"></a><br>
+    <a href="docs/Kurs2025-18.png" target="_blank"><img src="docs/Kurs2025-18.png" width="700"></a><br>
+    <a href="docs/Kurs2025-19.png" target="_blank"><img src="docs/Kurs2025-19.png" width="700"></a><br>
+    <a href="docs/Kurs2025-20.png" target="_blank"><img src="docs/Kurs2025-20.png" width="700"></a>
+  </p>
+
+  <!-- Кнопка возврата наверх в самом низу -->
+  <p align="center">
+    <a href="#top"><b>⬆️ Вернуться наверх</b></a>
+  </p>
+
+</details>
+
+
 <details>
   <summary><b>📄 Нажмите, чтобы развернуть и смотреть все страницы онлайн </b></summary>
   
