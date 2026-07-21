@@ -68,6 +68,28 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
   </tr>
 </table>
 
+# Курсовая работа: 
+
+## Разработка частотно-территориального плана сети сотовой связи стандарта GSM-1800 на территории города Лиссабон
+---
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/nairo027/nairo027/main/lis.png" width="300">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/nairo027/nairo027/main/lisfer.png" width="300">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Документация
+* 📄 [Открыть полную пояснительную записку онлайн](./имя_файла.pdf)
+
+
+
 ---
 ### 📩 Связаться со мной
 <p align="center">
