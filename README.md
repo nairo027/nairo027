@@ -84,7 +84,7 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
 </table>
 
 ## 📂 Документация
-* 📄 [Открыть полную пояснительную записку онлайн](https://raw.githubusercontent.com/nairo027/nairo027/main/Kurs2025.pdf)
+* <a href="https://github.com/nairo027/nairo027/blob/main/Kurs2025.pdf" target="_blank">📄 Открыть полную пояснительную записку онлайн</a>
 
 ---
 ### 📩 Связаться со мной
