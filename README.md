@@ -84,7 +84,53 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
 </table>
 
 ## 📂 Документация
-* <a href="https://raw.githubusercontent.com/nairo027/nairo027/main/Kurs2025.pdf" target="_blank">📄 Открыть пояснительную записку онлайн</a>
+
+<br> <!-- Просто небольшой отступ -->
+
+<details>
+  <summary><b>📄 Нажмите, чтобы развернуть и смотреть все страницы онлайн </b></summary>
+  
+  <!-- == НАЧАЛО ГАЛЕРЕИ == -->
+  <!-- Ниже идет HTML-таблица для аккуратного расположения превью (4 колонки в ряд) -->
+  
+  <p align="center"><em>Для просмотра страницы в полном размере нажмите на превью.</em></p>
+  
+  <table align="center">
+    <tr>
+      <td align="center" width="25%"><a href="docs/Kurs2025-01.png" target="_blank"><img src="docs/Kurs2025-01.png" width="150"><br>Стр. 1</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-02.png" target="_blank"><img src="docs/Kurs2025-02.png" width="150"><br>Стр. 2</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-03.png" target="_blank"><img src="docs/Kurs2025-03.png" width="150"><br>Стр. 3</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-04.png" target="_blank"><img src="docs/Kurs2025-04.png" width="150"><br>Стр. 4</a></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="docs/Kurs2025-05.png" target="_blank"><img src="docs/Kurs2025-05.png" width="150"><br>Стр. 5</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-06.png" target="_blank"><img src="docs/Kurs2025-06.png" width="150"><br>Стр. 6</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-07.png" target="_blank"><img src="docs/Kurs2025-07.png" width="150"><br>Стр. 7</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-08.png" target="_blank"><img src="docs/Kurs2025-08.png" width="150"><br>Стр. 8</a></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="docs/Kurs2025-09.png" target="_blank"><img src="docs/Kurs2025-09.png" width="150"><br>Стр. 9</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-10.png" target="_blank"><img src="docs/Kurs2025-10.png" width="150"><br>Стр. 10</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-11.png" target="_blank"><img src="docs/Kurs2025-11.png" width="150"><br>Стр. 11</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-12.png" target="_blank"><img src="docs/Kurs2025-12.png" width="150"><br>Стр. 12</a></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="docs/Kurs2025-13.png" target="_blank"><img src="docs/Kurs2025-13.png" width="150"><br>Стр. 13</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-14.png" target="_blank"><img src="docs/Kurs2025-14.png" width="150"><br>Стр. 14</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-15.png" target="_blank"><img src="docs/Kurs2025-15.png" width="150"><br>Стр. 15</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-16.png" target="_blank"><img src="docs/Kurs2025-16.png" width="150"><br>Стр. 16</a></td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><a href="docs/Kurs2025-17.png" target="_blank"><img src="docs/Kurs2025-17.png" width="150"><br>Стр. 17</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-18.png" target="_blank"><img src="docs/Kurs2025-18.png" width="150"><br>Стр. 18</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-19.png" target="_blank"><img src="docs/Kurs2025-19.png" width="150"><br>Стр. 19</a></td>
+      <td align="center" width="25%"><a href="docs/Kurs2025-20.png" target="_blank"><img src="docs/Kurs2025-20.png" width="150"><br>Стр. 20</a></td>
+    </tr>
+  </table>
+  <!-- == КОНЕЦ ГАЛЕРЕИ == -->
+
+</details>
+
 ---
 ### 📩 Связаться со мной
 <p align="center">
