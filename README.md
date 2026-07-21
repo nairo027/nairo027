@@ -118,6 +118,7 @@ https://kaktus.media/doc/536492_v_kgty_prohodit_mejdynarodnyy_it_forym_2025_i_vy
   </p>
 
 </details>
+
 ---
 ### 📩 Связаться со мной
 <p align="center">
